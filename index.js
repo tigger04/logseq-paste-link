@@ -7,3 +7,5 @@ function main () {
 
 // bootstrap
 logseq.ready(main).catch(console.error)
+
+// hello
