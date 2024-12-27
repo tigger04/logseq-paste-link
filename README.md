@@ -1,6 +1,6 @@
-## Hello World Sample
+## paste-link Sample
 
-This is a Hello World sample that just get you started :)
+This is a paste-link sample that just get you started :)
 
 ### Demo
 

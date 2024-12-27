@@ -2,7 +2,7 @@
  * entry
  */
 function main () {
-  logseq.App.showMsg('❤️ Message from Hello World Plugin :)')
+  logseq.App.showMsg('❤️ Message from paste-link Plugin :)')
 }
 
 // bootstrap
